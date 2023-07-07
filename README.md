@@ -1,6 +1,9 @@
 # Prediction Of Product Sales 
+Colin Lovestad
 
 Project Overview:
+![image](https://github.com/clovestad/Prediction_of_Product_Sales/assets/103072823/010fbd5b-6581-4434-9388-7f19b3c0bb34)
+
 - Sales predictions for various food item sold at many stores.
 
 ![image](https://github.com/clovestad/Prediction_of_Product_Sales/assets/103072823/184644d4-0668-469c-ae32-5446a86dccd4)
