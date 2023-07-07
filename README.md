@@ -1,6 +1,6 @@
 # Prediction Of Product Sales 
 
-##Project Overview:
+Project Overview:
 - Sales predictions for various food item sold at many stores.
 
 ![image](https://github.com/clovestad/Prediction_of_Product_Sales/assets/103072823/184644d4-0668-469c-ae32-5446a86dccd4)
