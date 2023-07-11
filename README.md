@@ -1,8 +1,8 @@
 # Prediction Of Product Sales 
 
-##Colin Lovestad
+## Colin Lovestad
 
-##Data Scource:
+## Data Scource:
 
 https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/
 
