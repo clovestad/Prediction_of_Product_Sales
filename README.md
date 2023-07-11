@@ -47,5 +47,7 @@ the plot above  clearly shows that  Type 3 supermarkets Trend a higher outlet sa
       
     ![image](https://github.com/clovestad/Prediction_of_Product_Sales/assets/103072823/9423a600-882a-4798-9cb5-a6e0b8716d1b)
 
+    ## model performance
+
 
 
