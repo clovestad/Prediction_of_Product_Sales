@@ -34,15 +34,15 @@ the plot above  clearly shows that  Type 3 supermarkets Trend a higher outlet sa
  -  Random Forest Regression Model
  -  Tuned Random Forest Regression Model
 
-    - linear regression (Test set)
+    1. linear regression (Test set)
       
     ![image](https://github.com/clovestad/Prediction_of_Product_Sales/assets/103072823/ebadc1eb-01d5-4216-8645-6384413f8d4d)
 
-    - Random Forest (Test set)
+    2. Random Forest (Test set)
 
      ![image](https://github.com/clovestad/Prediction_of_Product_Sales/assets/103072823/47d45033-6d8e-4db1-ad66-2c732b9d7025)
 
-    - Tuned Random Forest(test set)
+    3. Tuned Random Forest(test set)
   
       
     ![image](https://github.com/clovestad/Prediction_of_Product_Sales/assets/103072823/9423a600-882a-4798-9cb5-a6e0b8716d1b)
