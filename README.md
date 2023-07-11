@@ -27,6 +27,16 @@ the plot above  clearly shows that  Type 3 supermarkets Trend a higher outlet sa
 
 ![image](https://github.com/clovestad/Prediction_of_Product_Sales/assets/103072823/a8869f03-c684-4510-942b-5e0265e63650)
  
- the plot above shows the correlations between the Maximum listing price fro the product and the  outlet sales, indicating a positive correlation
+ the plot above shows the correlations between the Maximum listing price fro the product and the  outlet sales, indicating a positive correlation.
+
+ ## Machine learning Models:
+ -  Linear Regression Model
+ -  Random Forest Regression Model
+ -  Tuned Random Forest Regression Model
+
+    - linear regression (Test set)
+      ![image](https://github.com/clovestad/Prediction_of_Product_Sales/assets/103072823/ebadc1eb-01d5-4216-8645-6384413f8d4d)
+
+      
 
 
