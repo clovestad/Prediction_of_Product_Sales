@@ -36,16 +36,19 @@ the plot above  clearly shows that  Type 3 supermarkets Trend a higher outlet sa
 
     1. linear regression (Test set)
       
-    ![image](https://github.com/clovestad/Prediction_of_Product_Sales/assets/103072823/ebadc1eb-01d5-4216-8645-6384413f8d4d)
+    ![image](https://github.com/clovestad/Prediction_of_Product_Sales/assets/103072823/ff57c082-2c92-48f9-9997-1b6b84ed86a4)
+
 
     2. Random Forest (Test set)
 
-     ![image](https://github.com/clovestad/Prediction_of_Product_Sales/assets/103072823/47d45033-6d8e-4db1-ad66-2c732b9d7025)
+     ![image](https://github.com/clovestad/Prediction_of_Product_Sales/assets/103072823/10ce43ed-35ce-451c-97cb-f19879eb9fdf)
+
 
     3. Tuned Random Forest(test set)
   
-      
-    ![image](https://github.com/clovestad/Prediction_of_Product_Sales/assets/103072823/9423a600-882a-4798-9cb5-a6e0b8716d1b)
+    ![image](https://github.com/clovestad/Prediction_of_Product_Sales/assets/103072823/96e640f5-daa3-449a-8517-58226a0014fc)
+  
+    
 
     ## model performance
 
