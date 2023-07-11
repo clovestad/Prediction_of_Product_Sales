@@ -25,6 +25,8 @@ the plot above relates that the 3 most common items sold in stores  are  fruits/
 the plot above  clearly shows that  Type 3 supermarkets Trend a higher outlet sales
 
 
-
+![image](https://github.com/clovestad/Prediction_of_Product_Sales/assets/103072823/a8869f03-c684-4510-942b-5e0265e63650)
+ 
+ the plot above shows the correlations between the Maximum listing price fro the product and the  outlet sales, indicating a positive correlation
 
 
