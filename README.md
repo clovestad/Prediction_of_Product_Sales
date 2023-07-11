@@ -18,5 +18,7 @@ to explore data, various  visualations were used to visualize correlation.
 
 ![image](https://github.com/clovestad/Prediction_of_Product_Sales/assets/103072823/cc05c4a9-4a81-47d9-afb6-d7453558d385)
 
+the countplot above relates that the 3 most common items sold in stores  are  fruits/veggies, snacks, and household goods.
+
 
 
