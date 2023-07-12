@@ -53,12 +53,12 @@ the plot above  clearly shows that  Type 3 supermarkets Trend a higher outlet sa
     ## model performance
 
 
-    The Final Model Chosen was the Tuned random forest 
+ The Final Model Chosen was the Tuned random forest 
 
-For the testing set on the model, 50% of the variance in y was explained by x.
+ - For the testing set on the model, 50% of the variance in y was explained by x.
 
-The Mean Absolute Error was off by about $851.63.
+ - The Mean Absolute Error was off by about $851.63.
 
-The Mean Squared Error was $1,378,859.
+ - The Mean Squared Error was $1,378,859.
 
-The Root Mean Squared Error had a calculation of $1,174.24.
+ - The Root Mean Squared Error had a calculation of $1,174.24.
