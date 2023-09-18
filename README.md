@@ -62,3 +62,17 @@ the plot above  clearly shows that  Type 3 supermarkets Trend a higher outlet sa
  - The Mean Squared Error was $1,378,859.
 
  - The Root Mean Squared Error had a calculation of $1,174.24.
+
+
+
+## Project 1 Revisited
+![image](https://github.com/clovestad/Prediction_of_Product_Sales/assets/103072823/2c09895b-068e-434f-abe3-969b8878c97f)
+
+- the largest negitive factor that affects an items sale is the visibility of the item, while having a slightly larger store is more of a positive effect then a LARGE storefront.
+
+- ![image](https://github.com/clovestad/Prediction_of_Product_Sales/assets/103072823/d321ab08-97f5-406e-adc3-e4ce166c2130)
+
+ - item mrp is clearly of the largest importance for predicting the items outlet sales.
+
+
+
