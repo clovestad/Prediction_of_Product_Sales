@@ -78,13 +78,40 @@ the plot above  clearly shows that  Type 3 supermarkets Trend a higher outlet sa
 
 
 - ![image](https://github.com/clovestad/Prediction_of_Product_Sales/assets/103072823/d321ab08-97f5-406e-adc3-e4ce166c2130)
-
+### Interpretation
  ### top 5 most important features
 1. item_mrp
 2. item_weight
 3. item_visibility
 4. outlet size - medium
 5. outlet size - small
+
+# Explaing model with shap.
+
+![image](https://github.com/clovestad/Prediction_of_Product_Sales/assets/103072823/33b981c8-1121-42a9-8df1-a596b50f75da)
+
+vs.
+
+![image](https://github.com/clovestad/Prediction_of_Product_Sales/assets/103072823/4ac408e0-9850-4b3b-8f68-b297afde8d2d)
+
+
+- the two visuals echo the same importances with one exception.
+    - noteably the outlet size medium has been promoted  two levels of importance than in the previous visual.
+    - while item_mrp remains ahead of the pack by double in both cases.
+
+![image](https://github.com/clovestad/Prediction_of_Product_Sales/assets/103072823/f84df4c6-e380-4866-a64e-82be7aea99b5)
+
+### Interpretation
+1. item_mrp:
+    - the higher an items mrp(red),the more likely it is to positivly impact our predictive model.  
+2. outlet_size_medium:
+    - the  higher count of medium size stores(red)  will positivly impact our prediction.
+3. item_weight:
+    - a central cluster of our valaues with mixed feature value colors indicates an average/typical impact on the model predictions.
+
+
+
+
 
 
 
