@@ -66,13 +66,26 @@ the plot above  clearly shows that  Type 3 supermarkets Trend a higher outlet sa
 
 
 ## Project 1 Revisited
-![image](https://github.com/clovestad/Prediction_of_Product_Sales/assets/103072823/2c09895b-068e-434f-abe3-969b8878c97f)
+![image](https://github.com/clovestad/Prediction_of_Product_Sales/assets/103072823/195b228c-ab35-4d4f-8af8-34765e943a49)
 
-- the largest negitive factor that affects an items sale is the visibility of the item, while having a slightly larger store is more of a positive effect then a LARGE storefront.
+
+### top 3 -
+- positive effect:
+    - outlet_size_medium: for every point increase, an additional 805.36 predicted sales can be assumed.
+    - outlet_size_high: for every point increast an additional 441.82 predicted sales can be assumed.
+- negative effect:
+    - item_visibility: for every point decreased  a reduction in visibility an expected loss of 3,589.50 in outlet sales can be assumed.
+
 
 - ![image](https://github.com/clovestad/Prediction_of_Product_Sales/assets/103072823/d321ab08-97f5-406e-adc3-e4ce166c2130)
 
- - item mrp is clearly of the largest importance for predicting the items outlet sales.
+ ### top 5 most important features
+1. item_mrp
+2. item_weight
+3. item_visibility
+4. outlet size - medium
+5. outlet size - small
+
 
 
 
