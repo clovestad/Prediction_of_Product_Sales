@@ -118,7 +118,16 @@ vs.
 - item_visibility(selected to gain additional insight on store placement combined with parameters above leading to higher/lower sales)
 the combinations above can give additional insight on larger/bulkier items costing less VS smaller items that cost more and if placement has an overall impact  to the two features.
 
+ the two examples  we will be displaying  are :
+ - products that are -  higher / lower  than average item_mrp
+                        higher / lower  than average item_weight
+                        higher / lower  than average item_visibility
 
+- group 1 will encompass the less expensive, larger, and less visable items.
+
+- group 2 will encompass the more expansive, smaller, and more visable items.
+
+    
 ## Group 1
 ### lime tabular
 ![image](https://github.com/clovestad/Prediction_of_Product_Sales/assets/103072823/d35fa0b3-70c5-4a83-afbe-4e7c2245fa6f)
