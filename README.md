@@ -110,6 +110,35 @@ vs.
     - a central cluster of our valaues with mixed feature value colors indicates an average/typical impact on the model predictions.
 
 
+# Local Models
+
+## Group 1
+### lime tabular
+![image](https://github.com/clovestad/Prediction_of_Product_Sales/assets/103072823/d35fa0b3-70c5-4a83-afbe-4e7c2245fa6f)
+
+ - the plot above relates the most impactful predictor to be the item MRP and in this group the mrp is negativly effecting the predicted sales.(higher mrp than average)
+### Forceplot
+![image](https://github.com/clovestad/Prediction_of_Product_Sales/assets/103072823/eb06f8c6-aa18-4fe3-80ae-d31dcc30d8b7)
+
+-the forceplot above also relates that the item_MRP being of significance in pushing the f(x)  left, while it is noted that the other two group criteria(visibility and weight) are pushing right.
+
+## Group 2
+### lime tabular
+![image](https://github.com/clovestad/Prediction_of_Product_Sales/assets/103072823/bb1d6f9f-5246-48cd-b406-3456eaec083a)
+
+- the plot above relates that the item MRP again  is the largest influencer, this time having a positive effect on the sales predictions.
+
+### Forceplot
+
+![image](https://github.com/clovestad/Prediction_of_Product_Sales/assets/103072823/4011401b-2eb1-481c-800b-8bdb55695c9a)
+
+
+- the plot above relates that all three of our filtered criteria are contributing to a lower predicted value pushing to the left.
+
+
+
+
+
 
 
 
