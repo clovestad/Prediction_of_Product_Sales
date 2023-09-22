@@ -134,26 +134,21 @@ the combinations above can give additional insight on larger/bulkier items costi
     
 ## Group 1
 ### lime tabular
-![image](https://github.com/clovestad/Prediction_of_Product_Sales/assets/103072823/d35fa0b3-70c5-4a83-afbe-4e7c2245fa6f)
+![image](https://github.com/clovestad/Prediction_of_Product_Sales/assets/103072823/eb7da341-af21-4d6d-955c-51583080da9a)
 
- - the plot above relates the most impactful predictor to be the item MRP and in this group the mrp is negativly effecting the predicted sales.(higher mrp than average)
 ### Forceplot
-![image](https://github.com/clovestad/Prediction_of_Product_Sales/assets/103072823/eb06f8c6-aa18-4fe3-80ae-d31dcc30d8b7)
+![image](https://github.com/clovestad/Prediction_of_Product_Sales/assets/103072823/3a5b01b4-2a24-4ddb-80ae-c828fafc8501)
 
--the forceplot above also relates that the item_MRP being of significance in pushing the f(x)  left, while it is noted that the other two group criteria(visibility and weight) are pushing right.
 
 ## Group 2
 ### lime tabular
-![image](https://github.com/clovestad/Prediction_of_Product_Sales/assets/103072823/bb1d6f9f-5246-48cd-b406-3456eaec083a)
+![image](https://github.com/clovestad/Prediction_of_Product_Sales/assets/103072823/4cdd1462-66b7-45ce-9a7a-8f3c2007745b)
 
-- the plot above relates that the item MRP again  is the largest influencer, this time having a positive effect on the sales predictions.
 
 ### Forceplot
 
-![image](https://github.com/clovestad/Prediction_of_Product_Sales/assets/103072823/4011401b-2eb1-481c-800b-8bdb55695c9a)
+![image](https://github.com/clovestad/Prediction_of_Product_Sales/assets/103072823/a4fb57b4-aa29-4340-b257-4820f6e46c2d)
 
-
-- the plot above relates that all three of our filtered criteria are contributing to a lower predicted value pushing to the left.
 
 
 
