@@ -69,12 +69,16 @@ the plot above  clearly shows that  Type 3 supermarkets Trend a higher outlet sa
 ![image](https://github.com/clovestad/Prediction_of_Product_Sales/assets/103072823/195b228c-ab35-4d4f-8af8-34765e943a49)
 
 
-### top 3 -
+- top 3 -
+
+    - outlet size:
 - positive effect:
-    - outlet_size_medium: for every point increase, an additional 805.36 predicted sales can be assumed.
-    - outlet_size_high: for every point increast an additional 441.82 predicted sales can be assumed.
+    - outlet_size_medium: if the store falls into the category of a meduim sized store(based on overall size of ground area covered of the location), an additional 805.36 predicted sales can be assumed.
+    - outlet_size_high: if the store falls into the category of a high/large sized store(based on overall size of ground area covered of the location) an additional 441.82 predicted sales can be assumed.
 - negative effect:
-    - item_visibility: for every point decreased  a reduction in visibility an expected loss of 3,589.50 in outlet sales can be assumed.
+
+
+    - item_visibility: for every point increase in the total overall percentage of total product display space(for that specific product) an expected loss of 3,589.50 in outlet sales can be assumed.
 
 
 - ![image](https://github.com/clovestad/Prediction_of_Product_Sales/assets/103072823/d321ab08-97f5-406e-adc3-e4ce166c2130)
