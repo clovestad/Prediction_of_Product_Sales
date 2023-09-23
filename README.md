@@ -134,21 +134,36 @@ the combinations above can give additional insight on larger/bulkier items costi
     
 ## Group 1
 ### lime tabular
-![image](https://github.com/clovestad/Prediction_of_Product_Sales/assets/103072823/eb7da341-af21-4d6d-955c-51583080da9a)
+![image](https://github.com/clovestad/Prediction_of_Product_Sales/assets/103072823/ed9bc06f-a9ab-4faa-ba51-48c30e934f47)
+
+### interpretations
+
+- the plot above relates that the item mrp, the item type being of a breakfast type  and a item type being a hard drink  would reduce the predicted value of the item. While the item  visibility ,item type being breads,and the item type being a starchy food are  influencers toward the item having a higher value.
 
 ### Forceplot
-![image](https://github.com/clovestad/Prediction_of_Product_Sales/assets/103072823/3a5b01b4-2a24-4ddb-80ae-c828fafc8501)
+![image](https://github.com/clovestad/Prediction_of_Product_Sales/assets/103072823/cdf95cdb-82b7-4508-98ff-7ca4ba0b24d6)
 
+### interpretations
+
+- the plot above relates that this items main influences toward a higher predictions are item  visibility, item weight and having this item be sold in a medium sized store while item_mrp is opposing that force, at a smaller magnitude(not lowering the overall prediction). 
 
 ## Group 2
 ### lime tabular
-![image](https://github.com/clovestad/Prediction_of_Product_Sales/assets/103072823/4cdd1462-66b7-45ce-9a7a-8f3c2007745b)
+![image](https://github.com/clovestad/Prediction_of_Product_Sales/assets/103072823/745f6226-6faa-44ca-923f-29b3773c14d1)
 
+### interpretations
+
+- the plot relates that this items main influence for a higher prediction is the item mrp, the item being of a breakfast type, and the item type of being a soft drink.
+- the plot  also relates ann additional loss in predicted value in outlet size for all three categories of store(small(146.57)/medium(18111)/large(204.22)) the largest loss occuring in the large store,relating that this particular item would be best suited for a small store.
 
 ### Forceplot
 
-![image](https://github.com/clovestad/Prediction_of_Product_Sales/assets/103072823/a4fb57b4-aa29-4340-b257-4820f6e46c2d)
+![image](https://github.com/clovestad/Prediction_of_Product_Sales/assets/103072823/7b1d9617-5943-488b-a7f9-acd1057a3ee9)
 
+### interpretations
+
+- the plot above relates ther largest contributors to the loss in projected value for this item  to being a medium sized store and item weight.
+- the item mrp while being the largest positive contributor was not enought to increase predicted value.
 
 
 
